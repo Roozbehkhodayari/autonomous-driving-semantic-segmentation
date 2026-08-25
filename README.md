@@ -111,6 +111,8 @@ The model contains:
 
 The network has approximately **8.64 million trainable parameters** and predicts one of **23 semantic classes** for each pixel.
 
+![alt text](<U Net-Semantic Segmentation.png>)
+
 ## Training
 
 The model is trained with:
